@@ -72,7 +72,7 @@ WoWthing is here to help manage your World of Warcraft characters.
 
 **The Undermine Journal https://theunderminejournal.com.**
 ```
-The Undermine Journal has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services.
+The Undermine Journal has no control over, and assumes no responsibility for the content.
 ```
 
 **Oribos Exchange https://oribos.exchange.**
@@ -82,7 +82,7 @@ An augmented Auction House interface, used by the Brokers of Oribos.
 
 **The Gadgetzan Times https://thegadgetzantimes.com.**
 ```
-The Gadgetzan Times is a web based application which calculates the profits of crafted items of each profession.
+The Gadgetzan Times is a web based application which calculates the profits of crafted items.
 ```
 
 **Trade Skill Master https://www.tradeskillmaster.com.**
@@ -102,7 +102,7 @@ Website with the Calendar of which trader is available in your WoD Garrison.
 
 **Telsa Mount Planner http://telsa-productions.co.uk.**
 ```
-The Telsa Mount Planner will search for your World of Warcraft character and generate a route for you to farm mounts in the game.
+The Telsa Mount Planner will search for your World of Warcraft character and generate a route.
 ```
 
 **Soul Ash Calculator https://soulash.eu/**
@@ -112,10 +112,10 @@ A tool to help you find out how much Soul Ash you need to craft or upgrade Legen
 
 **WoW Mount Guides https://wowmountguides.com/**
 ```
-WoW Mount Guides is a complete resource for all the obtainable mounts in World of Warcraft, a easy to use search tool, guides and more.
+WoW Mount Guides is a complete resource for all the obtainable mounts in World of Warcraft.
 ```
 
 **Completionism https://completionism.co.uk/**
 ```
-It has a very light and clean overview with an easy to use interface which lets you see just what you're missing across any characters you might want to add.
+It has a very light and clean overview with an easy to use interface.
 ```

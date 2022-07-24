@@ -24,11 +24,11 @@
 
 `Database of sharable World of Warcraft addon elements.`
 
-**Ask Mr Robot https://www.askmrrobot.com. **
+**Ask Mr Robot https://www.askmrrobot.com.**
 
 `The easiest way to optimize your gear for World of Warcraft - press one button to get gear, gem, enchant, and soulbind suggestions.`
 
-**Raidbots https://www.raidbots.com. **
+**Raidbots https://www.raidbots.com.**
 
 `The easiest way to use SimulationCraft. A resource for World of Warcraft players.`
 

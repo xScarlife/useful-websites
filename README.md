@@ -35,34 +35,41 @@ The easiest way to optimize your gear for World of Warcraft - press one button t
 ```
 
 **Raidbots https://www.raidbots.com.**
-
-`The easiest way to use SimulationCraft. A resource for World of Warcraft players.`
+```
+The easiest way to use SimulationCraft. A resource for World of Warcraft players.
+```
 
 **WoW Progress https://www.wowprogress.com.**
-
-`Mythic Progress, Detailed History of Guilds and Characters, PvE Progression, Recruitment.`
+```
+Mythic Progress, Detailed History of Guilds and Characters, PvE Progression, Recruitment.
+```
 
 **Raider.io https://raider.io.**
-
-`Raider.IO is a World of Warcraft (WoW) Mythic+ and Raid Progression rankings site!`
+```
+Raider.IO is a World of Warcraft (WoW) Mythic+ and Raid Progression rankings site!
+```
 
 **WoW Meta https://www.wowmeta.com.**
-
-`It provides World of Warcraft players with detailed strategy guides and tools, such as the most accurate and up-to-date DPS Rankings, Healer Rankings and Tank Rankings.`
+```
+It provides World of Warcraft players with detailed strategy guides and tools, such as the most accurate and up-to-date DPS Rankings, Healer Rankings and Tank Rankings.
+```
 
 **Data for Azeroth https://www.dataforazeroth.com.**
-
-`Ranks players based on a weighted score of completed content. 100 points for mounts, leveled pets, toys, titles, and exalted reputations.`
+```
+Ranks players based on a weighted score of completed content. 100 points for mounts, leveled pets, toys, titles, and exalted reputations.
+```
 
 **Simple Armory https://simplearmory.com.**
-
-`Simplified armory site for World of Warcraft.`
+```
+Simplified armory site for World of Warcraft.
+```
 
 ## Gold Making
 
 **The Undermine Journal https://theunderminejournal.com.**
-
-`The Undermine Journal has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services.`
+```
+The Undermine Journal has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services.
+```
 
 **Oribos Exchange https://oribos.exchange.**
 

@@ -63,6 +63,10 @@ Ranks players based on a weighted score of completed content. 100 points for mou
 ```
 Simplified armory site for World of Warcraft.
 ```
+**Wowthing https://wowthing.org/**
+```
+Do you have an alt problem? Struggling to remember which of your characters have done all of the things this week? WoWthing is here to help manage your World of Warcraft characters.
+```
 
 ## Gold Making
 

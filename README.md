@@ -52,6 +52,8 @@
 
 `Simplified armory site for World of Warcraft.`
 
+**Gold Making:**
+
 **The Undermine Journal https://theunderminejournal.com.**
 
 `The Undermine Journal has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services.`

@@ -52,10 +52,7 @@
 
 `Simplified armory site for World of Warcraft.`
 
-
-
-
-**Gold Making:**
+## Gold Making
 
 **The Undermine Journal https://theunderminejournal.com.**
 

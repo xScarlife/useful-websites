@@ -6,7 +6,7 @@
 
 **Wowhead https://www.wowhead.com.**
 ```
-The largest World of Warcraft information site, featuring guides, news, and information on classes, professions, covenants, raids, transmog, and more.
+The largest World of Warcraft information site, featuring guides, news and more.
 ```
 
 **MMO Champion https://www.mmo-champion.com.**

@@ -15,20 +15,24 @@ World of Warcraft News, with guides, patch notes, previews of upcoming content, 
 ```
 
 **Icy Veins: https://www.icy-veins.com.**
-
-`Icy Veins provides news and detailed guides for World of Warcraft, WoW Classic, Hearthstone, Diablo III, Overwatch, Heroes of the Storm, and StarCraft 2.`
+```
+Icy Veins provides news and detailed guides for World of Warcraft, WoW Classic, Hearthstone, Diablo III, Overwatch and StarCraft 2.
+```
 
 **Bloodmallet https://bloodmallet.com.**
-
-`This site provides an overview about several simulate able aspects for almost all specs in World of Warcraft using SimulationCraft.`
+```
+This site provides an overview about several simulate able aspects for almost all specs in World of Warcraft using SimulationCraft.
+```
 
 **Wago.io https://wago.io.**
-
-`Database of sharable World of Warcraft addon elements.`
+```
+Database of sharable World of Warcraft addon elements.
+```
 
 **Ask Mr Robot https://www.askmrrobot.com.**
-
-`The easiest way to optimize your gear for World of Warcraft - press one button to get gear, gem, enchant, and soulbind suggestions.`
+```
+The easiest way to optimize your gear for World of Warcraft - press one button to get gear, gem, enchant, and soulbind suggestions.
+```
 
 **Raidbots https://www.raidbots.com.**
 

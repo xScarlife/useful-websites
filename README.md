@@ -1,4 +1,4 @@
-# List of Useful Websites [![HogGroovin](https://cdn3.emoji.gg/emojis/2783-hoggroovin.gif)](https://emoji.gg/emoji/2783-hoggroovin)
+# List of Useful Websites 📌
 
 **Wondering what websites I use for general gameplay or gold making? Here I list them all up for you.**
 

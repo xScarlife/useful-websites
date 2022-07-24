@@ -31,7 +31,7 @@ Database of sharable World of Warcraft addon elements.
 
 **Ask Mr Robot https://www.askmrrobot.com.**
 ```
-The easiest way to optimize your gear for World of Warcraft - press one button to get gear, gem, enchant, and soulbind suggestions.
+The easiest way to optimize your gear for World of Warcraft.
 ```
 
 **Raidbots https://www.raidbots.com.**
@@ -51,12 +51,12 @@ Raider.IO is a World of Warcraft (WoW) Mythic+ and Raid Progression rankings sit
 
 **WoW Meta https://www.wowmeta.com.**
 ```
-It provides World of Warcraft players with detailed strategy guides and tools, such as the most accurate and up-to-date DPS Rankings, Healer Rankings and Tank Rankings.
+It provides World of Warcraft players with detailed strategy guides and tools.
 ```
 
 **Data for Azeroth https://www.dataforazeroth.com.**
 ```
-Ranks players based on a weighted score of completed content. 100 points for mounts, leveled pets, toys, titles, and exalted reputations.
+Ranks players based on a weighted score of completed content. 
 ```
 
 **Simple Armory https://simplearmory.com.**
@@ -65,7 +65,7 @@ Simplified armory site for World of Warcraft.
 ```
 **Wowthing https://wowthing.org/**
 ```
-Do you have an alt problem? Struggling to remember which of your characters have done all of the things this week? WoWthing is here to help manage your World of Warcraft characters.
+WoWthing is here to help manage your World of Warcraft characters.
 ```
 
 ## Gold Making
@@ -77,17 +77,17 @@ The Undermine Journal has no control over, and assumes no responsibility for the
 
 **Oribos Exchange https://oribos.exchange.**
 ```
-An augmented Auction House interface, used by the Brokers of Oribos. Mobile browsers should work better in full-screen mode.
+An augmented Auction House interface, used by the Brokers of Oribos. 
 ```
 
 **The Gadgetzan Times https://thegadgetzantimes.com.**
 ```
-The Gadgetzan Times is a web based application which calculates the profits of crafted items of each profession with real-time auction data using Blizzard World of Warcraft API.
+The Gadgetzan Times is a web based application which calculates the profits of crafted items of each profession.
 ```
 
 **Trade Skill Master https://www.tradeskillmaster.com.**
 ```
-This addon is the best of the best when it comes to making gold in World of Warcraft. Everything related to making gold is made fast and easy by their addon.
+This addon is the best of the best when it comes to making gold in World of Warcraft. 
 ```
 
 **WoW Pets https://wow-pets.com.**
@@ -102,7 +102,7 @@ Website with the Calendar of which trader is available in your WoD Garrison.
 
 **Telsa Mount Planner http://telsa-productions.co.uk.**
 ```
-The Telsa Mount Planner will search for your World of Warcraft character and generate a route for you to farm mounts in the game. It will take into account any mounts you already own to create an optimised route just for you.
+The Telsa Mount Planner will search for your World of Warcraft character and generate a route for you to farm mounts in the game.
 ```
 
 **Soul Ash Calculator https://soulash.eu/**

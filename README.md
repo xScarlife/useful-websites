@@ -16,12 +16,12 @@ World of Warcraft News, with guides, patch notes, previews of upcoming content, 
 
 **Icy Veins: https://www.icy-veins.com.**
 ```
-Icy Veins provides news and detailed guides for World of Warcraft, WoW Classic, Hearthstone, Diablo III, Overwatch and StarCraft 2.
+Icy Veins provides news and detailed guides for World of Warcraft.
 ```
 
 **Bloodmallet https://bloodmallet.com.**
 ```
-This site provides an overview about several simulate able aspects for almost all specs in World of Warcraft.
+This site provides an overview about several simulate able aspects for almost all specs in WoW.
 ```
 
 **Wago.io https://wago.io.**

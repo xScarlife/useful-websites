@@ -10,8 +10,9 @@ The largest World of Warcraft information site, featuring guides, news and more.
 ```
 
 **MMO Champion https://www.mmo-champion.com.**
-
-`World of Warcraft News, with guides, patch notes, previews of upcoming content, and more!`
+```
+World of Warcraft News, with guides, patch notes, previews of upcoming content, and more!
+```
 
 **Icy Veins: https://www.icy-veins.com.**
 

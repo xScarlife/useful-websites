@@ -21,7 +21,7 @@ Icy Veins provides news and detailed guides for World of Warcraft, WoW Classic, 
 
 **Bloodmallet https://bloodmallet.com.**
 ```
-This site provides an overview about several simulate able aspects for almost all specs in World of Warcraft using SimulationCraft.
+This site provides an overview about several simulate able aspects for almost all specs in World of Warcraft.
 ```
 
 **Wago.io https://wago.io.**

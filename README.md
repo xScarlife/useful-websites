@@ -72,37 +72,46 @@ The Undermine Journal has no control over, and assumes no responsibility for the
 ```
 
 **Oribos Exchange https://oribos.exchange.**
-
-`An augmented Auction House interface, used by the Brokers of Oribos. Mobile browsers should work better in full-screen mode.`
+```
+An augmented Auction House interface, used by the Brokers of Oribos. Mobile browsers should work better in full-screen mode.
+```
 
 **The Gadgetzan Times https://thegadgetzantimes.com.**
-
-`The Gadgetzan Times is a web based application which calculates the profits of crafted items of each profession with real-time auction data using Blizzard World of Warcraft API.`
+```
+The Gadgetzan Times is a web based application which calculates the profits of crafted items of each profession with real-time auction data using Blizzard World of Warcraft API.
+```
 
 **Trade Skill Master https://www.tradeskillmaster.com.**
-
-`This addon is the best of the best when it comes to making gold in World of Warcraft. Everything related to making gold is made fast and easy by their addon.`
+```
+This addon is the best of the best when it comes to making gold in World of Warcraft. Everything related to making gold is made fast and easy by their addon.
+```
 
 **WoW Pets https://wow-pets.com.**
-
-`A site dedicated to auction house prices, pet collections, battling, and achievements.`
+```
+A site dedicated to auction house prices, pet collections, battling, and achievements.
+```
 
 **Garrison Profession Traders Calendar http://mike.mymm1.com/wow/garrison/traders.php.**
-
-`Website with the Calendar of which trader is available in your WoD Garrison.`
+```
+Website with the Calendar of which trader is available in your WoD Garrison.
+```
 
 **Telsa Mount Planner http://telsa-productions.co.uk.**
-
-`The Telsa Mount Planner will search for your World of Warcraft character and generate a route for you to farm mounts in the game. It will take into account any mounts you already own to create an optimised route just for you.`
+```
+The Telsa Mount Planner will search for your World of Warcraft character and generate a route for you to farm mounts in the game. It will take into account any mounts you already own to create an optimised route just for you.
+```
 
 **Soul Ash Calculator https://soulash.eu/**
-
-`A tool to help you find out how much Soul Ash you need to craft or upgrade Legendary items Shadowlands.`
+```
+A tool to help you find out how much Soul Ash you need to craft or upgrade Legendary items Shadowlands.
+```
 
 **WoW Mount Guides https://wowmountguides.com/**
-
-`WoW Mount Guides is a complete resource for all the obtainable mounts in World of Warcraft, a easy to use search tool, guides and more.`
+```
+WoW Mount Guides is a complete resource for all the obtainable mounts in World of Warcraft, a easy to use search tool, guides and more.
+```
 
 **Completionism https://completionism.co.uk/**
-
-`It has a very light and clean overview with an easy to use interface which lets you see just what you're missing across any characters you might want to add.`
+```
+It has a very light and clean overview with an easy to use interface which lets you see just what you're missing across any characters you might want to add.
+```

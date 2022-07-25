@@ -44,78 +44,78 @@ The easiest way to use SimulationCraft. A resource for World of Warcraft players
 Mythic Progress, Detailed History of Guilds and Characters, PvE Progression, Recruitment.
 ```
 
-**Raider.io https://raider.io.**
+**[Raider.io](https://raider.io)**
 ```
 Raider.IO is a World of Warcraft (WoW) Mythic+ and Raid Progression rankings site!
 ```
 
-**WoW Meta https://www.wowmeta.com.**
+**[WoW Meta](https://www.wowmeta.com)**
 ```
 It provides World of Warcraft players with detailed strategy guides and tools.
 ```
 
-**Data for Azeroth https://www.dataforazeroth.com.**
+**[Data for Azeroth](https://www.dataforazeroth.com)**
 ```
 Ranks players based on a weighted score of completed content. 
 ```
 
-**Simple Armory https://simplearmory.com.**
+**[Simple Armory](https://simplearmory.com)**
 ```
 Simplified armory site for World of Warcraft.
 ```
-**Wowthing https://wowthing.org/**
+**[Wowthing](https://wowthing.org)**
 ```
 WoWthing is here to help manage your World of Warcraft characters.
 ```
 
 ## Gold Making
 
-**The Undermine Journal https://theunderminejournal.com.**
+**[The Undermine Journal](https://theunderminejournal.com)**
 ```
 The Undermine Journal has no control over, and assumes no responsibility for the content.
 ```
 
-**Oribos Exchange https://oribos.exchange.**
+**[Oribos Exchange](https://oribos.exchange)**
 ```
 An augmented Auction House interface, used by the Brokers of Oribos. 
 ```
 
-**The Gadgetzan Times https://thegadgetzantimes.com.**
+**[The Gadgetzan Times](https://thegadgetzantimes.com)**
 ```
 The Gadgetzan Times is a web based application which calculates the profits of crafted items.
 ```
 
-**Trade Skill Master https://www.tradeskillmaster.com.**
+**[Trade Skill Master](https://www.tradeskillmaster.com)**
 ```
 This addon is the best of the best when it comes to making gold in World of Warcraft. 
 ```
 
-**WoW Pets https://wow-pets.com.**
+**[WoW Pets](https://wow-pets.com)**
 ```
 A site dedicated to auction house prices, pet collections, battling, and achievements.
 ```
 
-**Garrison Profession Traders Calendar http://mike.mymm1.com/wow/garrison/traders.php.**
+**[Garrison Profession Traders Calendar](http://mike.mymm1.com/wow/garrison/traders.php)**
 ```
 Website with the Calendar of which trader is available in your WoD Garrison.
 ```
 
-**Telsa Mount Planner http://telsa-productions.co.uk.**
+**[Telsa Mount Planner](http://telsa-productions.co.uk)**
 ```
 The Telsa Mount Planner will search for your World of Warcraft character and generate a route.
 ```
 
-**Soul Ash Calculator https://soulash.eu/**
+**[Soul Ash Calculator](https://soulash.eu/)**
 ```
 A tool to help you find out how much Soul Ash you need to craft or upgrade Legendary items Shadowlands.
 ```
 
-**WoW Mount Guides https://wowmountguides.com/**
+**[WoW Mount Guides](https://wowmountguides.com)**
 ```
 WoW Mount Guides is a complete resource for all the obtainable mounts in World of Warcraft.
 ```
 
-**Completionism https://completionism.co.uk/**
+**[Completionism](https://completionism.co.uk)**
 ```
 It has a very light and clean overview with an easy to use interface.
 ```

@@ -4,7 +4,7 @@
 
 ## General
 
-[Wowhead](https://www.wowhead.com)
+**[Wowhead](https://www.wowhead.com)**
 ```
 The largest World of Warcraft information site, featuring guides, news and more.
 ```

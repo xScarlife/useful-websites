@@ -19,27 +19,27 @@ World of Warcraft News, with guides, patch notes, previews of upcoming content, 
 Icy Veins provides news and detailed guides for World of Warcraft.
 ```
 
-**Bloodmallet https://bloodmallet.com.**
+**[Bloodmallet](https://bloodmallet.com)**
 ```
 This site provides an overview about several simulate able aspects for almost all specs in WoW.
 ```
 
-**Wago.io https://wago.io.**
+**[Wago.io](https://wago.io)**
 ```
 Database of sharable World of Warcraft addon elements.
 ```
 
-**Ask Mr Robot https://www.askmrrobot.com.**
+**[Ask Mr Robot](https://www.askmrrobot.com)**
 ```
 The easiest way to optimize your gear for World of Warcraft.
 ```
 
-**Raidbots https://www.raidbots.com.**
+**[Raidbots](https://www.raidbots.com)**
 ```
 The easiest way to use SimulationCraft. A resource for World of Warcraft players.
 ```
 
-**WoW Progress https://www.wowprogress.com.**
+**[WoW Progress](https://www.wowprogress.com)**
 ```
 Mythic Progress, Detailed History of Guilds and Characters, PvE Progression, Recruitment.
 ```

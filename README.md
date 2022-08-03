@@ -71,11 +71,11 @@ WoWthing is here to help manage your World of Warcraft characters.
 ## Classic
 **[Grimsoul](https://wplt.grimsoul.net)**
 
-https://tbc.professions.gg/
+**[TBC Professions](https://tbc.professions.gg)**
 
-https://seventyupgrades.com/
+**[Seventy Upgrades TBC](https://seventyupgrades.com)**
 
-https://eightyupgrades.com/ 
+**[Eighty Upgrades Wotlk](https://eightyupgrades.com)**
 
 ## Gold Making
 

@@ -70,6 +70,9 @@ WoWthing is here to help manage your World of Warcraft characters.
 
 ## Classic
 **[Grimsoul](https://wplt.grimsoul.net)**
+```
+Shows the cheapest way to level your TBC profession.
+```
 
 **[TBC Professions](https://tbc.professions.gg)**
 

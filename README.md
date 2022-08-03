@@ -2,7 +2,7 @@
 
 **Wondering what websites I use for general gameplay or gold making? Here I list them all up for you.**
 
-## General
+## Retail
 
 **[Wowhead](https://www.wowhead.com)**
 ```
@@ -67,6 +67,15 @@ Simplified armory site for World of Warcraft.
 ```
 WoWthing is here to help manage your World of Warcraft characters.
 ```
+
+## Classic
+**[Grimsoul](https://wplt.grimsoul.net)**
+
+https://tbc.professions.gg/
+
+https://seventyupgrades.com/
+
+https://eightyupgrades.com/ 
 
 ## Gold Making
 

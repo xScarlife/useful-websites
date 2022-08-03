@@ -75,10 +75,19 @@ Shows the cheapest way to level your TBC profession.
 ```
 
 **[TBC Professions](https://tbc.professions.gg)**
+```
+BC profession guides, level-up calculator, predicted gold costs, racial bonuses and more.
+```
 
 **[Seventy Upgrades TBC](https://seventyupgrades.com)**
+```
+Plan, track and share gear sets for your Burning Crusade Classic characters.
+```
 
 **[Eighty Upgrades Wotlk](https://eightyupgrades.com)**
+```
+Plan, track and share gear sets for your Wrath of the Lich King Classic characters.
+```
 
 ## Gold Making
 

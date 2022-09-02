@@ -1,5 +1,8 @@
 # List of Useful Websites 📌
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_LsfkMQS--TVMvGl90rNA?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/xscarlife?style=social)
+
 **Wondering what websites I use for general gameplay or gold making? Here I list them all up for you.**
 
 ## Retail

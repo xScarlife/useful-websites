@@ -57,6 +57,11 @@ Raider.IO is a World of Warcraft (WoW) Mythic+ and Raid Progression rankings sit
 It provides World of Warcraft players with detailed strategy guides and tools.
 ```
 
+**[WoW Valor](https://wowvalor.app/en)**
+```
+Not sure what trinkets, legendaries, or pets to use? It will show you what the best players in the world are using.
+```
+
 **[Data for Azeroth](https://www.dataforazeroth.com)**
 ```
 Ranks players based on a weighted score of completed content. 

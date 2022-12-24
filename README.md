@@ -77,7 +77,11 @@ WoWthing is here to help manage your World of Warcraft characters.
 ```
 **[Murlok](https://murlok.io/)**
 ```
-Murlok.io is an app that provides 2v2, 3v3, RBG, and Mythic+ class guides for World of Warcraft Dragonflight..
+Murlok.io is an app that provides 2v2, 3v3, RBG, and Mythic+ class guides for World of Warcraft Dragonflight.
+```
+**[Subcreation](https://mplus.subcreation.net/)**
+```
+Subcreation provides statistical analysis of Mythic+ dungeons (via the raider.io API).
 ```
 
 ## Classic

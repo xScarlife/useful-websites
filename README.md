@@ -75,6 +75,10 @@ Simplified armory site for World of Warcraft.
 ```
 WoWthing is here to help manage your World of Warcraft characters.
 ```
+**[Murlok](https://murlok.io/)**
+```
+Murlok.io is an app that provides 2v2, 3v3, RBG, and Mythic+ class guides for World of Warcraft Dragonflight..
+```
 
 ## Classic
 **[Grimsoul](https://wplt.grimsoul.net)**

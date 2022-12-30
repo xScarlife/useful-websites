@@ -84,6 +84,11 @@ Murlok.io is an app that provides 2v2, 3v3, RBG, and Mythic+ class guides for Wo
 Subcreation provides statistical analysis of Mythic+ dungeons (via the raider.io API).
 ```
 
+**[Warcraftdb](https://warcraftdb.com/)**
+```
+An up to date Dragonflight Dungeon Journal tool that includes raids, dungeons, boss strategies, and drops.
+```
+
 ## Classic
 **[Grimsoul](https://wplt.grimsoul.net)**
 ```

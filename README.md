@@ -114,11 +114,6 @@ Plan, track and share gear sets for your Wrath of the Lich King Classic characte
 
 ## Gold Making
 
-**[The Undermine Journal](https://theunderminejournal.com)**
-```
-The Undermine Journal has no control over, and assumes no responsibility for the content.
-```
-
 **[Oribos Exchange](https://oribos.exchange)**
 ```
 An augmented Auction House interface, used by the Brokers of Oribos. 
